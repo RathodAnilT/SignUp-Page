@@ -22,3 +22,8 @@ Currently, two official plugins are available:
 - User Authentication: Implement user authentication to maintain sessions across different pages.
 - Token Storage: Use secure methods (e.g., HTTP-only cookies or localStorage) to store authentication tokens.
 - Session Expiry: Implement automatic session expiration and re-authentication prompts for enhanced security.
+
+ # Error Handling
+
+- User-friendly Error Messages: Display user-friendly error messages for scenarios such as incorrect login credentials, network issues, or server errors.
+- Form Reset on Error: Ensure forms reset or highlight incorrect fields when an error occurs during submission.
