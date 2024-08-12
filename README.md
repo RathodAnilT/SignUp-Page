@@ -27,3 +27,9 @@ Currently, two official plugins are available:
 
 - User-friendly Error Messages: Display user-friendly error messages for scenarios such as incorrect login credentials, network issues, or server errors.
 - Form Reset on Error: Ensure forms reset or highlight incorrect fields when an error occurs during submission.
+
+# Backend Integration
+
+- API Setup: Develop or integrate with a backend API to handle user registration, login, and session management.
+- Database Management: Set up a database (e.g., MongoDB, PostgreSQL) to store user information securely.
+- Password Encryption: Implement password hashing and encryption using industry-standard algorithms (e.g., bcrypt)
