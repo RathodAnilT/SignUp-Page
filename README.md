@@ -61,3 +61,9 @@ Currently, two official plugins are available:
 - Hosting: Deploy the frontend on a platform like Vercel, Netlify, or GitHub Pages.
 - Backend Deployment: Deploy the backend API on platforms like Heroku, AWS, or DigitalOcean.
 - Environment Variables: Use environment variables for sensitive data like API keys and database credentials
+
+# Documentation
+
+- Project Setup: Provide detailed instructions on setting up and running the project locally.
+- API Documentation: Include API documentation for developers who want to integrate with your authentication system.
+- User Guide: Create a user guide that explains how to use the application, including screenshots and examples.
