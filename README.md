@@ -43,3 +43,9 @@ Currently, two official plugins are available:
 
 - Keyboard Navigation: Ensure that all interactive elements are accessible via keyboard navigation.
 - Screen Reader Support: Include proper ARIA labels and roles for screen reader support.
+
+# Testing
+
+- Unit Testing: Write unit tests for individual components to ensure they behave as expected.
+- Integration Testing: Implement integration tests to validate the interaction between frontend and backend.
+- End-to-End Testing: Use tools like Cypress or Selenium to perform end-to-end testing of the entire authentication flow.
