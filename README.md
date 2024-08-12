@@ -33,3 +33,8 @@ Currently, two official plugins are available:
 - API Setup: Develop or integrate with a backend API to handle user registration, login, and session management.
 - Database Management: Set up a database (e.g., MongoDB, PostgreSQL) to store user information securely.
 - Password Encryption: Implement password hashing and encryption using industry-standard algorithms (e.g., bcrypt)
+
+# User Interface Enhancements
+
+- Responsive Design: Ensure the form is fully responsive across different screen sizes and devices.
+- Theming: Add theming support to allow users to switch between light and dark modes.
