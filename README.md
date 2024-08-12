@@ -55,3 +55,9 @@ Currently, two official plugins are available:
 - CSRF Protection: Implement Cross-Site Request Forgery (CSRF) protection to prevent unauthorized actions.
 - Rate Limiting: Add rate limiting to API endpoints to prevent brute-force attacks.
 - CAPTCHA Integration: Integrate CAPTCHA or reCAPTCHA to protect the signup and login forms from bots.
+
+# Deployment
+
+- Hosting: Deploy the frontend on a platform like Vercel, Netlify, or GitHub Pages.
+- Backend Deployment: Deploy the backend API on platforms like Heroku, AWS, or DigitalOcean.
+- Environment Variables: Use environment variables for sensitive data like API keys and database credentials
