@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 - Real-time Feedback: Provide real-time feedback to users while they fill out the form (e.g., password strength meter, email 
   availability check).
 
-  # Session Management
+# Session Management
 
 - User Authentication: Implement user authentication to maintain sessions across different pages.
 - Token Storage: Use secure methods (e.g., HTTP-only cookies or localStorage) to store authentication tokens.
