@@ -49,3 +49,9 @@ Currently, two official plugins are available:
 - Unit Testing: Write unit tests for individual components to ensure they behave as expected.
 - Integration Testing: Implement integration tests to validate the interaction between frontend and backend.
 - End-to-End Testing: Use tools like Cypress or Selenium to perform end-to-end testing of the entire authentication flow.
+
+# Security Enhancements
+
+- CSRF Protection: Implement Cross-Site Request Forgery (CSRF) protection to prevent unauthorized actions.
+- Rate Limiting: Add rate limiting to API endpoints to prevent brute-force attacks.
+- CAPTCHA Integration: Integrate CAPTCHA or reCAPTCHA to protect the signup and login forms from bots.
