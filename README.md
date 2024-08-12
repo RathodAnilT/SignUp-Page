@@ -38,3 +38,8 @@ Currently, two official plugins are available:
 
 - Responsive Design: Ensure the form is fully responsive across different screen sizes and devices.
 - Theming: Add theming support to allow users to switch between light and dark modes.
+
+# Accessibility
+
+- Keyboard Navigation: Ensure that all interactive elements are accessible via keyboard navigation.
+- Screen Reader Support: Include proper ARIA labels and roles for screen reader support.
